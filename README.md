@@ -28,3 +28,4 @@ ISFJ
 
 ## License
 
+The [MIT License](https://raw.githubusercontent.com/masope/ioejts/main/LICENSE)
